@@ -1,11 +1,16 @@
-import React from 'react';
-import {Text, View} from 'react-native';
+import {ImageBackground} from 'react-native';
 import {styles} from './app.styles';
+import StartGameScreen from './screens/StartGameScreen';
+
 const App = () => {
   return (
-    <View style={styles.viewStyle}>
-      <Text style={styles.boxOne}>React Native</Text>
-    </View>
+    <ImageBackground
+      source={require('./assets/images/dicetwo.jpeg')}
+      resizeMode="cover"
+      style={styles.rootScreen}
+      imageStyle={{opacity: 0.7}}>
+      <StartGameScreen />
+    </ImageBackground>
   );
 };
 
