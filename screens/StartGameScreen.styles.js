@@ -13,7 +13,9 @@ export const styles = StyleSheet.create({
     shadowOffset: {width: 0, height: 2},
     shadowRadius: 6,
     shadowOpacity: 0.25,
-    alignItems: 'center'
+    alignItems: 'center',
+    borderWidth: 3,
+    borderColor: 'black'
   },
   numberInput: {
     height: 50,
