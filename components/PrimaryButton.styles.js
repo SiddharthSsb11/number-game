@@ -3,7 +3,10 @@ import {StyleSheet} from 'react-native';
 export const styles = StyleSheet.create({
   outerButtonContainer: {
     margin: 4,
-    overflow: 'hidden'
+    overflow: 'hidden',
+    borderColor: 'black',
+    borderWidth: 1,
+    borderRadius: 24
   },
   innerButtonContainer: {
     backgroundColor: '#900C3F',
