@@ -17,6 +17,11 @@ export const styles = StyleSheet.create({
     borderWidth: 3,
     borderColor: 'black'
   },
+  headContainer: {
+    flex: 1,
+    marginTop: 100,
+    alignItems: 'center'
+  },
   numberInput: {
     height: 50,
     width: 50,
