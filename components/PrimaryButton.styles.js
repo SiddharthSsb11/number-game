@@ -5,12 +5,12 @@ export const styles = StyleSheet.create({
     margin: 4,
     overflow: 'hidden',
     borderColor: 'black',
-    borderWidth: 1,
+    borderWidth: 2,
     borderRadius: 24
   },
   innerButtonContainer: {
     backgroundColor: '#900C3F',
-    padding: 8,
+    padding: 10,
     borderRadius: 24,
     elevation: 8
   },
