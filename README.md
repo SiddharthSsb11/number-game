@@ -18,9 +18,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ### Few Screenshots
 
-<img src="./screenshots/1.png" alt="StartGameScreen" width="250" height="500" />
-<img src="./screenshots/2.png" alt="GameScreen" width="250" height="500" />
-<img src="./screenshots/3.png" alt="GameOverScreen" width="250" height="500"/>
+<img src="./screenshots/1.png" alt="StartGameScreen" width="250" height="500" /> <img src="./screenshots/2.png" alt="GameScreen" width="250" height="500" /> <img src="./screenshots/3.png" alt="GameOverScreen" width="250" height="500"/>
 
 
 
